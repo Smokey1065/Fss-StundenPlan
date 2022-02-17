@@ -30,6 +30,8 @@ body {
     padding: 60px;
     font-size: x-large;
     padding-bottom: 50;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
 }
 
 
